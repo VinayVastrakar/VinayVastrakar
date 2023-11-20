@@ -1,6 +1,9 @@
-### Hi there 👋
-## This Is
-# Vinay Vastrakar
+<!-- Introduction -->
+<h1 align="center">Greetings! I'm Vinay 👋</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Spring+Boot+Backend+Developer;&color=cyan&center=true" />
+</div>
 <!--
 **VinayVastrakar/VinayVastrakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Gloitel Technology
+- 🌱 I’m currently learning Spring Boot
+- ⚡ Fun fact: I'm passionate about coding! 🖊️
+- 💬 Ask me about DSA 
+- 📫 How to reach me: VinayVastrakar13@gmail.com
