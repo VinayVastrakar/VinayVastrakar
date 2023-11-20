@@ -4,6 +4,16 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Spring+Boot+Backend+Developer;&color=cyan&center=true" />
 </div>
+
+<h2 align="center">🚀 Full Stack Web Developer with Expertise in Node.js Backend Development</h2>
+
+<p align="center">
+  I am a dedicated Node.js developer who thrives on exploring cutting-edge technologies and utilizing them to tackle real-world challenges.
+</p>
+
+<!-- Profile Image -->
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b031dd766cfe15f73313260e8ef489bd6437fa30c84765973bb2fa059175789d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31382f61342f39342f31386134393439666339633830363731373264336239366533303265373039372e676966">
+
 <!--
 **VinayVastrakar/VinayVastrakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
