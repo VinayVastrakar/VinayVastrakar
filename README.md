@@ -5,7 +5,7 @@
 <h1 align="center">Greetings! I'm Vinay 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Spring+Boot+Backend+Developer;&color=cyan&center=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Spring+Boot+Backend+Developer;Java+Developer;&color=cyan&center=true" />
 </div>
 
 <h2 align="center">🚀 Full Stack Web Developer with Expertise in Java Backend Development</h2>
